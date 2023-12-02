@@ -1,4 +1,3 @@
-# Project Title
 # Ads Creation App
 This project contains components and functionalities for creating and managing ads.
 
